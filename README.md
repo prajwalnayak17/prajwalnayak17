@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-PrajwalNayak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prajwalnayak/)](https://www.linkedin.com/in/prajwalnayak/)
 [![Email](https://img.shields.io/badge/-prajwalnayak2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prajwalnayak2000@gmail.com)](mailto:prajwalnayak2000@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/PrajwalNayak?label=follow&style=social)](https://github.com/PrajwalNayak)
-[![Portfolio](https://img.shields.io/badge/-prajwalnayak2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prajwalnayak2000@gmail.com)](https://prajwalnayak17.in/)
+
 
 I am a passionate Full Stack Developer and AI enthusiast with a solid background in software development, data analysis, and AI-driven solutions. I am committed to leveraging technology to solve real-world problems and have a keen interest in emerging technologies.
 
@@ -13,6 +13,7 @@ I am a passionate Full Stack Developer and AI enthusiast with a solid background
 - 💼 **Full Stack Gen AI Developer** at Think41
 - 💡 Interested in AI, Machine Learning, Full Stack Development, and Data Analysis
 - 🌐 **Currently working on:** [3D Design Customization Studio](https://github.com/PrajwalNayak/3d-design-customization) and [GitHub Repository Analyzer](https://github.com/PrajwalNayak/github-repository-analyzer)
+-  🖥️ **Portfolio:** [prajwalnayak17.in](https://prajwalnayak17.in/)
 
 ## 🛠️ Technical Skills
 
