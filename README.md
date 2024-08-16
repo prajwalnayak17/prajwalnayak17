@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-PrajwalNayak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prajwalnayak/)](https://www.linkedin.com/in/prajwalnayak/)
 [![Email](https://img.shields.io/badge/-prajwalnayak2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prajwalnayak2000@gmail.com)](mailto:prajwalnayak2000@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/PrajwalNayak?label=follow&style=social)](https://github.com/PrajwalNayak)
+[![Portfolio](https://img.shields.io/badge/-prajwalnayak2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prajwalnayak2000@gmail.com)](https://prajwalnayak17.in/)
 
 I am a passionate Full Stack Developer and AI enthusiast with a solid background in software development, data analysis, and AI-driven solutions. I am committed to leveraging technology to solve real-world problems and have a keen interest in emerging technologies.
 
@@ -30,13 +31,10 @@ I am a passionate Full Stack Developer and AI enthusiast with a solid background
 
 ### [Inquipo Technologies](https://www.inquipo.com/) | Full Stack Developer & SaaS Sales
 *Feb – Dec 2023, Bengaluru, India*
-- Improved software efficiency, reducing loading time from 50ms to 25ms using ReactJs and NodeJs
-- Enhanced system security and scalability, leading to 25% faster product deployment timelines with .NET
+
 
 ### [VITrendz](https://www.vitrendz.com/) | Data Analyst
 *Apr 2021 – Mar 2023, Vellore, India*
-- Conducted data analysis using Tableau, R, and SQL, improving decision-making for VIT Vellore's student organization
-- Boosted content engagement by 15% across 50,000 students in 15 fields
 
 ## 🌟 Projects
 
@@ -56,3 +54,5 @@ I am a passionate Full Stack Developer and AI enthusiast with a solid background
 
 - **Email:** [prajwalnayak2000@gmail.com](mailto:prajwalnayak2000@gmail.com)
 - **LinkedIn:** [Prajwal Nayak](https://www.linkedin.com/in/prajwalnayak/)
+- **Portfolio:** [Prajwal Nayak](https://prajwalnayak17.in/)
+
