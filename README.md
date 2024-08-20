@@ -17,7 +17,7 @@ I am a passionate Full Stack Developer and AI enthusiast with a solid background
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Python, JavaScript, Go-lang, C++, SQL
+- **Languages:** Python, JavaScript,Solidity, SQL
 - **Frameworks & Libraries:** Django, React.js, Node.js, SpringBoot, Three.js, React Fiber
 - **Tools & Platforms:** AWS, Docker, Kubernetes, Git, PostgreSQL, Tableau, Figma
 - **Methodologies:** Agile, Microservices Architecture, RESTful APIs
