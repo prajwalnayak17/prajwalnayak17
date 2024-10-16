@@ -10,7 +10,7 @@ I cook Softwares.
 ## 🚀 About Me
 
 - 🎓 **B.Tech in Computer Science** from Vellore Institute of Technology, with a CGPA of 8.01 (May 2024)
-- 💼 **Full Stack Gen AI Developer** at Think41
+- 💼 **Full Stack Developer** at **Temperstack**
 - 💡 Interested in AI, Blockchain, Full Stack Development, and Data Analysis
 - 🌐 **Currently working on:** [3D Design Customization Studio](https://github.com/PrajwalNayak/3d-design-customization) and [GitHub Repository Analyzer](https://github.com/PrajwalNayak/github-repository-analyzer)
 -  🖥️ **Portfolio:** [prajwalnayak17.in](https://prajwalnayak17.in/)
