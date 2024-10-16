@@ -25,7 +25,7 @@ I cook Softwares.
 ## 💼 Work Experience
 
 ### [Think41](https://www.think41.com/) | Full Stack Gen AI Developer
-*June 2024 – Present, Bengaluru, India*
+*June 2024 – 2024 August, Bengaluru, India*
 - Developed and integrated Gen AI agents with Grog APIs to automate business processes, improving efficiency
 - Built scalable applications using Django for backend and React.js for frontend, reducing deployment timelines by 25%
 - Deployed applications on AWS, ensuring scalability and reliability
