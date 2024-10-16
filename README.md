@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/github/followers/PrajwalNayak?label=follow&style=social)](https://github.com/PrajwalNayak)
 
 
-I am a passionate Full Stack Developer and AI enthusiast with a solid background in software development, data analysis, and AI-driven solutions. I am committed to leveraging technology to solve real-world problems and have a keen interest in emerging technologies.
+I cook Softwares.
 
 ## 🚀 About Me
 
