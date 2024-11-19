@@ -24,6 +24,9 @@ I cook Softwares.
 
 ## 💼 Work Experience
 
+### [Temperstack](https://www.temperstack.com/) | SDE
+*September 2024 - Present, Bengaluru , India*
+
 ### [Think41](https://www.think41.com/) | Full Stack Gen AI Developer
 *June 2024 – 2024 August, Bengaluru, India*
 - Developed and integrated Gen AI agents with Grog APIs to automate business processes, improving efficiency
