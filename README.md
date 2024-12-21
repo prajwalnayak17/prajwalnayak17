@@ -18,7 +18,7 @@ I cook Softwares.
 ## 🛠️ Technical Skills
 
 - **Languages:** Python, JavaScript,Solidity, SQL
-- **Frameworks & Libraries:** Django, React.js, Node.js, SpringBoot, Three.js, React Fiber
+- **Frameworks & Libraries:** Flask, React.js, Node.js, Three.js, Redux/Saga
 - **Tools & Platforms:** AWS, Docker, Kubernetes, Git, PostgreSQL, Tableau, Figma
 - **Methodologies:** Agile, Microservices Architecture, RESTful APIs
 
