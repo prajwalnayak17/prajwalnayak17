@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Prajwal Nayak
 
-[![LinkedIn](https://img.shields.io/badge/-PrajwalNayak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prajwalnayak/)]([https://www.linkedin.com/in/prajwalnayak/](https://www.linkedin.com/in/prajwal-nayak-009114235/))
+[![LinkedIn](https://img.shields.io/badge/-PrajwalNayak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/prajwalnayak/](https://www.linkedin.com/in/prajwal-nayak-009114235/))]([https://www.linkedin.com/in/prajwalnayak/](https://www.linkedin.com/in/prajwal-nayak-009114235/))
 [![Email](https://img.shields.io/badge/-prajwalnayak2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prajwalnayak2000@gmail.com)](mailto:prajwalnayak2000@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/PrajwalNayak?label=follow&style=social)](https://github.com/PrajwalNayak)
 
